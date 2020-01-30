@@ -1,5 +1,11 @@
 {
   "name": "com_connect",
+  "repositories": [
+    {
+      "repoType": "github.com",
+      "repoUrlStub": "textpattern/com_connect"
+    }
+  ],  
   "latest": {
     "version": "4.6.0-beta.3",
     "downloadUrlTarGz": "https://github.com/textpattern/com_connect/archive/4.6.0-beta.3.tar.gz",
