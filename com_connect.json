@@ -2,12 +2,12 @@
   "name": "com_connect",
   "latest": {
     "version": "4.6.0-beta.3",
-    "downloadUrl": "https://github.com/textpattern/com_connect/archive/4.6.0-beta.3.zip"
+    "downloadUrlZip": "https://github.com/textpattern/com_connect/archive/4.6.0-beta.3.zip"
   },
   "legacy": {
       "4.5": {
         "version": "v4.5.0.0-beta.4",
-        "downloadUrl": "https://github.com/textpattern/com_connect/archive/v4.5.0.0-beta.4.zip"
+        "downloadUrlZip": "https://github.com/textpattern/com_connect/archive/v4.5.0.0-beta.4.zip"
       }
   }
 }
