@@ -19,8 +19,8 @@ Description TODO
   ],
   "beta": {
     "version": "4.6.1-beta.3",
-    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/4.6.1-beta.1.zip",
-    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/4.6.1-beta.3/abc_example_v4.6.1-beta.1_zip.txt"
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/4.6.1-beta.3.zip",
+    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/4.6.1-beta.3/abc_example_v4.6.1-beta.3_zip.txt"
   },
   "stable": {
     "version": "4.6.0",
