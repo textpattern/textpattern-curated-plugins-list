@@ -1,6 +1,6 @@
 # textpattern-curated-plugins-list
 
-A curated list of Textpattern plugins, in JSON format. Data will be utilized in tandem with the upcoming [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
+A curated list of Textpattern plugins, in JSON format. Data is utilized in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
 
 ## JSON structure (TBC)
 
@@ -8,7 +8,7 @@ Each curated plugin has a JSON-formatted 'library card', located within the `lib
 
 Description TODO
 
-### Example structure (TBC)
+### Example structure
 
 ```JSON
 {
@@ -40,6 +40,8 @@ Description TODO
   ]
 }
 ```
+
+We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) as a useful starting point.
 
 Explanation TODO
 
