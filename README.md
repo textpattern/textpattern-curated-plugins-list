@@ -15,7 +15,7 @@ Description TODO
   "name": "abc_example",
   "repositories": [
     {
-      "repoType": "github.com",
+      "repoType": "github",
       "repoUrlStub": "exampleuser/abc_example"
     }
   ],
@@ -29,13 +29,15 @@ Description TODO
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/4.6.0.zip",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/4.6.0/abc_example_v4.6.0_zip.txt"
   },
-  "legacy": {
+  "legacy": [
+    {
       "4.5": {
         "version": "v4.5.0.0-beta.4",
         "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v4.5.0.0-beta.4.tar.gz",
         "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v4.5.0.0-beta.4.zip"
       }
-  }
+    }
+  ]
 }
 ```
 
