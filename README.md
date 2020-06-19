@@ -4,6 +4,8 @@ A curated list of Textpattern plugins, in JSON format. Data will be utilized in 
 
 ## JSON structure (TBC)
 
+Each curated plugin has a JSON-formatted 'library card', located within the `library-of-plugins` directory of this GitHub repository.
+
 Description TODO
 
 ### Example structure (TBC)
