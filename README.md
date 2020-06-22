@@ -61,7 +61,21 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 
 TODO
 
-### optional entries
+### Example minimum structure
+
+This is the absolutely minimum that is required in each JSON file. Note that, as stated above, `stable` or `beta` could be stated on line 3:
+
+```JSON
+{
+  "name": "abc_example",
+  "stable": {
+    "version": "3.7.0",
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip"
+  }
+}
+```
+
+### Optional entries
 
 `repositories`: one or more code repositories where the the project is maintained.
 
