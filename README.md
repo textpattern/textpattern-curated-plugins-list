@@ -31,7 +31,7 @@ Description TODO
   "stable": {
     "version": "3.7.0",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
-    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/4.6.0/abc_example_v3.7.0_zip.txt"
+    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0_zip.txt"
   },
   "legacy": [
     {
