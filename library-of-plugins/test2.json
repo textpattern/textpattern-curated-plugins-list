@@ -1,0 +1,22 @@
+{
+  "name": "test2",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrlStub": "textpattern-gh/test1"
+    },
+    {
+      "repoType": "bitbucket",
+      "repoUrlStub": "textpattern-bb/test1"
+    },
+    {
+      "repoType": "gitlab",
+      "repoUrlStub": "textpattern-gl/test1"
+    }
+  ],
+  "stable": {
+    "version": "4.5.9",
+    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.5.9.zip",
+    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.5.9/com_connect_v4.5.9_zip.txt"
+  }
+}
