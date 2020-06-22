@@ -2,16 +2,16 @@
   "name": "test2",
   "repositories": [
     {
-      "repoType": "github",
-      "repoUrlStub": "textpattern-gh/test1"
-    },
-    {
       "repoType": "bitbucket",
       "repoUrlStub": "textpattern-bb/test1"
     },
     {
       "repoType": "gitlab",
       "repoUrlStub": "textpattern-gl/test1"
+    },
+    {
+      "repoType": "github",
+      "repoUrlStub": "textpattern-gh/test1"
     }
   ],
   "stable": {
