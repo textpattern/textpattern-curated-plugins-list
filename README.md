@@ -25,26 +25,27 @@ Description TODO
   ],
   "beta": {
     "version": "3.7.1-beta.3",
-    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip",
-    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.1-beta.3/abc_example_v3.7.1-beta.3_zip.txt"
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
   },
   "stable": {
     "version": "3.7.0",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
-    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0_zip.txt"
+    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt",
+    "downloadUrlTxtZip": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0_zip.txt"
   },
   "legacy": [
     {
       "4.6": {
         "version": "v2.5.3",
         "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz",
-        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.zip"
+        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.txt"
       }
     },
     {
       "4.5": {
         "version": "v1.4.0-beta.4",
-        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v1.4.0-beta.4.zip"
+        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v1.4.0-beta.4.txt",
+        "downloadUrlTxtZip": "https://github.com/exampleuser/abc_example/archive/v1.4.0-beta.4_zip.txt"
       }
     }
   ]

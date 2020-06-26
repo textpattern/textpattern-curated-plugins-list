@@ -9,26 +9,30 @@
   "beta": {
     "version": "{semver}",
     "downloadUrlPhp": "{url-of-php-plugin}",
-    "downloadUrlTxt": "{url-of-txt-plugin}"
+    "downloadUrlTxt": "{url-of-txt-plugin}",
+    "downloadUrlTxtZip": "{url-of-compressed-txt-plugin}"
   },
   "stable": {
     "version": "{semver}",
     "downloadUrlPhp": "{url-of-php-plugin}",
-    "downloadUrlTxt": "{url-of-txt-plugin}"
+    "downloadUrlTxt": "{url-of-txt-plugin}",
+    "downloadUrlTxtZip": "{url-of-compressed-txt-plugin}"
   },
   "legacy": [
     {
       "4.6": {
         "version": "{semver}",
         "downloadUrlPhp": "{url-of-php-plugin}",
-        "downloadUrlTxt": "{url-of-txt-plugin}"
+        "downloadUrlTxt": "{url-of-txt-plugin}",
+        "downloadUrlTxtZip": "{url-of-compressed-txt-plugin}"
       }
     },
     {
       "4.5": {
         "version": "{semver}",
         "downloadUrlPhp": "{url-of-php-plugin}",
-        "downloadUrlTxt": "{url-of-txt-plugin}"
+        "downloadUrlTxt": "{url-of-txt-plugin}",
+        "downloadUrlTxtZip": "{url-of-compressed-txt-plugin}"
       }
     }
   ]
