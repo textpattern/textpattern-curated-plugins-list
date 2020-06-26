@@ -30,8 +30,7 @@ Description TODO
   "stable": {
     "version": "3.7.0",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
-    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt",
-    "downloadUrlTxtZip": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0_zip.txt"
+    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
   },
   "legacy": [
     {
@@ -44,8 +43,7 @@ Description TODO
     {
       "4.5": {
         "version": "v1.4.0-beta.4",
-        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v1.4.0-beta.4.txt",
-        "downloadUrlTxtZip": "https://github.com/exampleuser/abc_example/archive/v1.4.0-beta.4_zip.txt"
+        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v1.4.0-beta.4_zip.txt"
       }
     }
   ]
