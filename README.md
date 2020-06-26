@@ -25,10 +25,12 @@ Description TODO
   ],
   "beta": {
     "version": "3.7.1-beta.3",
+    "date": "2020-06-26",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
   },
   "stable": {
     "version": "3.7.0",
+    "date": "2020-02-14",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
   },
@@ -36,6 +38,7 @@ Description TODO
     {
       "4.6": {
         "version": "v2.5.3",
+        "date": "2018-10-18",
         "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz",
         "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.txt"
       }
@@ -79,6 +82,8 @@ This is the absolutely minimum that is required in each JSON file. Note that, as
 `repositories`: one or more code repositories where the the project is maintained.
 
 `legacy`: one or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version of Textpattern it worked with. For example `4.6`.
+
+`date`: release date (in `yyyy-mm-dd` format) of version.
 
 TODO
 
