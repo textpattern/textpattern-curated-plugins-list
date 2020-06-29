@@ -61,9 +61,11 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 
 `name`: the name of the plugin, including the plugin author prefix.
 
-`stable` and/or `beta`: at least one of either `stable` and/or `beta` needs to be stated. If the plugin has no official `stable` release then `beta` release will take precedence.
+`stable` and/or `beta`: at least one of either `stable` and/or `beta` nodes needs to be stated. If the plugin has no official `stable` release then `beta` release will take precedence.
 
-TODO
+`version`: `stable` and `beta` nodes each require a `version` entry in `semver` format. e.g. `1.3.8`.
+
+`max-txp-version-compatibility`: `stable` and `beta` nodes each require a Textpattern `max-txp-version-compatibility` entry in `major.minor` format. e.g. `4.8`.
 
 ### Example minimum structure
 
