@@ -25,11 +25,13 @@ Description TODO
   ],
   "beta": {
     "version": "3.7.1-beta.3",
+    "max-txp-version-compatibility": "4.8",
     "date": "2020-06-26",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
   },
   "stable": {
     "version": "3.7.0",
+    "max-txp-version-compatibility": "4.7",
     "date": "2020-02-14",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
