@@ -3,7 +3,7 @@
   "repositories": [
     {
       "repoType": "github",
-      "repoUrlStub": "textpattern/test1"
+      "repoUrl": "https://github.com/textpattern/test1"
     }
   ],
   "beta": {

@@ -3,15 +3,15 @@
   "repositories": [
     {
       "repoType": "bitbucket",
-      "repoUrlStub": "textpattern-bb/test1"
+      "repoUrl": "https://github.com/textpattern-bb/test1"
     },
     {
       "repoType": "gitlab",
-      "repoUrlStub": "textpattern-gl/test1"
+      "repoUrl": "https://gitlab.com/textpattern-gl/test1"
     },
     {
       "repoType": "github",
-      "repoUrlStub": "textpattern-gh/test1"
+      "repoUrl": "https://bitbucket.org/textpattern-gh/test1"
     }
   ],
   "stable": {

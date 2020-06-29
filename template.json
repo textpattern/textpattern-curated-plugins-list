@@ -3,7 +3,7 @@
   "repositories": [
     {
       "repoType": "{repo-site}",
-      "repoUrlStub": "{repo-site-username}/{repo-project-name}"
+      "repoUrl": "{repo-site-username}/{repo-project-name}"
     }
   ],
   "beta": {

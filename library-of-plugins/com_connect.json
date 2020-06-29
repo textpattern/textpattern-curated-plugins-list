@@ -3,7 +3,7 @@
   "repositories": [
     {
       "repoType": "github",
-      "repoUrlStub": "textpattern/com_connect"
+      "repoUrl": "https://github.com/textpattern/com_connect"
     }
   ],
   "beta": {

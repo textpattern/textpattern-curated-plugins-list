@@ -16,11 +16,11 @@ Description TODO
   "repositories": [
     {
       "repoType": "github",
-      "repoUrlStub": "exampleuser/abc_example"
+      "repoUrl": "https://github.com/exampleuser/abc_example"
     },
     {
       "repoType": "bitbucket",
-      "repoUrlStub": "exampleuser/abc_example"
+      "repoUrl": "ttps://bitbucket.org/exampleuser/abc_example"
     }
   ],
   "beta": {
@@ -79,7 +79,7 @@ This is the absolutely minimum that is required in each JSON file. Note that, as
 
 ### Optional entries
 
-`repositories`: one or more code repositories where the the project is maintained.
+`repositories`: one or more code repositories where the the project is maintained. For each entry, a `repoType` and `repoUrl` must be provided.
 
 `legacy`: one or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version of Textpattern it worked with. For example `4.6`.
 
