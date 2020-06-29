@@ -1,0 +1,29 @@
+{
+  "name": "rah_sitemap",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_sitemap"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_sitemap"
+    }
+  ],
+  "stable": {
+    "version": "2.1.0",
+    "date": "2020-01-31",
+    "downloadUrlPhp": "https://github.com/gocom/rah_sitemap/archive/2.1.0.zip",
+    "downloadUrlTxt": "https://github.com/gocom/rah_sitemap/releases/download/2.1.0/rah_sitemap_v2.1.0_zip.txt"
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "1.3.0",
+        "date": "2014-03-28",
+        "downloadUrlPhp": "https://github.com/gocom/rah_sitemap/archive/1.3.0.zip",
+        "downloadUrlTxt": "https://github.com/gocom/rah_sitemap/releases/download/1.3.0/rah_sitemap_v1.3.0_zip.txt"
+      }
+    }
+  ]
+}

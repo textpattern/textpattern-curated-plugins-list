@@ -1,0 +1,14 @@
+{
+  "name": "rah_swap",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_swap"
+    }
+  ],
+  "stable": {
+    "version": "0.1.0",
+    "date": "2013-05-06",
+    "downloadUrlPhp": "https://github.com/gocom/rah_swap/archive/0.1.0.zip"
+  }
+}

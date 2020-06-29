@@ -1,0 +1,19 @@
+{
+  "name": "etc_pagination",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/etc-plugins/etc_pagination"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "http://www.iut-fbleau.fr/projet/etc/index.php?id=22"
+    }
+  ],
+  "stable": {
+    "version": "0.5.0",
+    "date": "2018-09-14",
+    "downloadUrlPhp": "https://github.com/etc-plugins/etc_pagination/archive/0.5.0.zip",
+    "downloadUrlTxt": "https://github.com/etc-plugins/etc_pagination/releases/download/0.5.0/etc_pagination_v0.5.0_zip.txt"
+  }
+}

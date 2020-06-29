@@ -1,0 +1,24 @@
+{
+  "name": "rah_maintenance",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_maintenance"
+    }
+  ],
+  "stable": {
+    "version": "0.2.0",
+    "date": "2019-04-20",
+    "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.2.0.zip"
+  },
+  "legacy": [
+    {
+      "4.5": {
+        "version": "0.1.1",
+        "date": "2014-03-28",
+        "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.1.1.zip",
+        "downloadUrlTxt": "https://github.com/gocom/rah_maintenance/releases/download/0.1.1/rah_maintenance_v0.1.1_zip.txt"
+      }
+    }
+  ]
+}
