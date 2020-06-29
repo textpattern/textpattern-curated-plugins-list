@@ -20,7 +20,7 @@ Description TODO
     },
     {
       "repoType": "bitbucket",
-      "repoUrl": "ttps://bitbucket.org/exampleuser/abc_example"
+      "repoUrl": "https://bitbucket.org/exampleuser/abc_example"
     }
   ],
   "beta": {
