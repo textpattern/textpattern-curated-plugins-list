@@ -12,7 +12,7 @@
   ],
   "stable": {
     "version": "2.1.0",
-    "max-txp-version-compatibility": "4.7",
+    "maxTxpCompatibility": "4.7",
     "date": "2020-01-31",
     "downloadUrlPhp": "https://github.com/gocom/rah_sitemap/archive/2.1.0.zip",
     "downloadUrlTxt": "https://github.com/gocom/rah_sitemap/releases/download/2.1.0/rah_sitemap_v2.1.0_zip.txt"

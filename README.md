@@ -25,13 +25,13 @@ Description TODO
   ],
   "beta": {
     "version": "3.7.1-beta.3",
-    "max-txp-version-compatibility": "4.8",
+    "maxTxpCompatibility": "4.8",
     "date": "2020-06-26",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
   },
   "stable": {
     "version": "3.7.0",
-    "max-txp-version-compatibility": "4.7",
+    "maxTxpCompatibility": "4.7",
     "date": "2020-02-14",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
@@ -65,7 +65,7 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 
 `version`: `stable` and `beta` nodes each require a `version` entry in `semver` format. e.g. `1.3.8`.
 
-`max-txp-version-compatibility`: `stable` and `beta` nodes each require a Textpattern `max-txp-version-compatibility` entry in `major.minor` format. e.g. `4.8`.
+`maxTxpCompatibility`: `stable` and `beta` nodes each require a Textpattern `maxTxpCompatibility` entry in `major.minor` format. e.g. `4.8`.
 
 ### Example minimum structure
 

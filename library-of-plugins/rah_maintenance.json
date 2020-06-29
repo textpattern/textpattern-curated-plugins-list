@@ -8,7 +8,7 @@
   ],
   "stable": {
     "version": "0.2.0",
-    "max-txp-version-compatibility": "4.8",
+    "maxTxpCompatibility": "4.8",
     "date": "2019-04-20",
     "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.2.0.zip"
   },
