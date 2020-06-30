@@ -1,4 +1,4 @@
 contact_links:
-  - name: Plugins website issue
+  - name: plugins.Textpattern.com website issue
     url: https://github.com/textpattern/textpattern-plugins-website/issues/new
     about: Create a report to help us improve the Textpattern plugin website (not specifically related to a plugin listing).
