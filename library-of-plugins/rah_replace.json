@@ -12,7 +12,6 @@
   ],
   "stable": {
     "version": "0.5.0",
-    "maxTxpCompatibility": "4.8",
     "date": "2019-04-06",
     "downloadUrlPhp": "https://github.com/gocom/rah_replace/archive/0.5.0.zip"
   },

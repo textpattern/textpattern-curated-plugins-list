@@ -25,13 +25,11 @@ Description TODO
   ],
   "beta": {
     "version": "3.7.1-beta.3",
-    "maxTxpCompatibility": "4.8",
     "date": "2020-06-26",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
   },
   "stable": {
     "version": "3.7.0",
-    "maxTxpCompatibility": "4.7",
     "date": "2020-02-14",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
@@ -64,8 +62,6 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 `stable` and/or `beta`: at least one of either `stable` and/or `beta` nodes needs to be stated. If the plugin has no official `stable` release then `beta` release will take precedence.
 
 `version`: `stable` and `beta` nodes each require a `version` entry in `semver` format. e.g. `1.3.8`.
-
-`maxTxpCompatibility`: `stable` and `beta` nodes each require a Textpattern `maxTxpCompatibility` entry in `major.minor` format. e.g. `4.8`.
 
 ### Example minimum structure
 

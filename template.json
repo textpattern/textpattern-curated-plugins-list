@@ -8,14 +8,12 @@
   ],
   "beta": {
     "version": "{semver}",
-    "maxTxpCompatibility": "{ver-of-textpattern}",
     "date": "{yyyy}-{mm}-{dd}",
     "downloadUrlPhp": "{url-of-php-plugin}",
     "downloadUrlTxt": "{url-of-txt-plugin}"
   },
   "stable": {
     "version": "{semver}",
-    "maxTxpCompatibility": "{ver-of-textpattern}",
     "date": "{yyyy}-{mm}-{dd}",
     "downloadUrlPhp": "{url-of-php-plugin}",
     "downloadUrlTxt": "{url-of-txt-plugin}"
