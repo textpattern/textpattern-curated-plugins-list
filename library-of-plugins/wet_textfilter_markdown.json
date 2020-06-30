@@ -1,0 +1,15 @@
+{
+  "name": "wet_textfilter_markdown",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/rwetzlmayr/wet_textfilter_markdown"
+    }
+  ],
+  "stable": {
+    "version": "v0.7",
+    "maxTxpCompatibility": "4.8",
+    "date": "2015-10-29",
+    "downloadUrlPhp": "https://github.com/rwetzlmayr/wet_textfilter_markdown/archive/v0.7.zip"
+  }
+}
