@@ -1,0 +1,29 @@
+{
+  "name": "rah_replace",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_replace"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_replace"
+    }
+  ],
+  "stable": {
+    "version": "0.5.0",
+    "maxTxpCompatibility": "4.8",
+    "date": "2019-04-06",
+    "downloadUrlPhp": "https://github.com/gocom/rah_replace/archive/0.5.0.zip"
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.4.2",
+        "date": "2013-05-07",
+        "downloadUrlPhp": "https://github.com/gocom/rah_replace/archive/0.4.2.zip",
+        "downloadUrlTxt": "https://rahforum.biz/d/rah_replace_v0.4.2_zip.txt"
+      }
+    }
+  ]
+}
