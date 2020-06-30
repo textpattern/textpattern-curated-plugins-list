@@ -8,7 +8,9 @@ labels: plugin-broken
 **Note:** This form is intended for use when reporting broken plugin links or unreachable content on the Textpattern plugins website itself *not* plugin code. In the event of broken plugin code please contact the original author directly.
 
 **Textpattern plugins website page URL**
-xxxxx
+
+https://plugins.textpattern.com/plugins/xxxxx
 
 **Please give a brief description of what is broken**
+
 xxxxx
