@@ -20,6 +20,14 @@
   },
   "legacy": [
     {
+      "4.6": {
+        "version": "v4.5.1",
+        "date": "2016-12-03",
+        "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/v4.5.1.tar.gz",
+        "downloadUrlTxt": "https://github.com/textpattern/com_connect/archive/v4.5.1.zip"
+      }
+    },
+    {
       "4.5": {
         "version": "v4.5.0.0-beta.4",
         "date": "2016-12-02",
