@@ -28,13 +28,13 @@ xxx_xxxxx
   ],
   "beta": {
     "version": "{semver}",
-    "date": "{yyyy}-{mm}-{dd}",
+    "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlPhp": "{url-of-php-plugin}",
     "downloadUrlTxt": "{url-of-txt-plugin}"
   },
   "stable": {
     "version": "{semver}",
-    "date": "{yyyy}-{mm}-{dd}",
+    "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlPhp": "{url-of-php-plugin}",
     "downloadUrlTxt": "{url-of-txt-plugin}"
   },
@@ -42,7 +42,7 @@ xxx_xxxxx
     {
       "4.6": {
         "version": "{semver}",
-        "date": "{yyyy}-{mm}-{dd}",
+        "datePublished": "{yyyy}-{mm}-{dd}",
         "downloadUrlPhp": "{url-of-php-plugin}",
         "downloadUrlTxt": "{url-of-txt-plugin}"
       }
@@ -50,7 +50,7 @@ xxx_xxxxx
     {
       "4.5": {
         "version": "{semver}",
-        "date": "{yyyy}-{mm}-{dd}",
+        "datePublished": "{yyyy}-{mm}-{dd}",
         "downloadUrlPhp": "{url-of-php-plugin}",
         "downloadUrlTxt": "{url-of-txt-plugin}"
       }

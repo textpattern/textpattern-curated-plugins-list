@@ -25,12 +25,12 @@ Description TODO
   ],
   "beta": {
     "version": "3.7.1-beta.3",
-    "date": "2020-06-26",
+    "datePublished": "2020-06-26",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
   },
   "stable": {
     "version": "3.7.0",
-    "date": "2020-02-14",
+    "datePublished": "2020-02-14",
     "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
   },
@@ -38,7 +38,7 @@ Description TODO
     {
       "4.6": {
         "version": "v2.5.3",
-        "date": "2018-10-18",
+        "datePublished": "2018-10-18",
         "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz",
         "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.txt"
       }
