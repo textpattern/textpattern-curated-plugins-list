@@ -9,7 +9,7 @@ labels: plugin-add
 
 **Name of plugin (including author prefix)**
 
-xxx_xxxxxx
+xxx_xxxxx
 
 **Please complete as much of the JSON template below as is possible/relevant**
 
@@ -20,6 +20,10 @@ xxx_xxxxxx
     {
       "repoType": "{repo-site}",
       "repoUrl": "{repo-site-username}/{repo-project-name}"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "{url-of-plugin-homepage}"
     }
   ],
   "beta": {
@@ -54,5 +58,14 @@ xxx_xxxxxx
   ]
 }
 ```
+
+**Textpattern min and max compatibility of latest plugin version, if known (x all that apply)**
+
+Textpattern version compatibility:
+
+- [ ] 4.8
+- [ ] 4.7
+- [ ] 4.6
+- [ ] 4.5
 
 **Brief description of plugin (optional)**
