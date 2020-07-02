@@ -9,7 +9,7 @@
   "stable": {
     "version": "0.0.0",
     "datePublished": "2020-04-01",
-    "downloadUrlPhp": "https://example.com/this-plugin-does-not-exist/v0.0.0.zip"
+    "downloadUrlPhp": "https://example.com/this-plugin-does-not-exist/v0.0.0.zip",
     "downloadUrlTxt": "https://example.com/this-plugin-does-not-exist/v0.0.0.txt"
   }
 }
