@@ -2,11 +2,11 @@
 
 A curated list of Textpattern plugins, in JSON format. Data is utilized in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
 
-## JSON structure (TBC)
+## JSON structure
 
 Each curated plugin has a JSON-formatted 'library card', located within the `library-of-plugins` directory of this GitHub repository.
 
-**Full description TODO.**
+The information for each card is then digested by the Textpattern plugins website to provide the full details of the plugin. Each card expects a set of [required entries](#required-entries) plus any [optional-entries](#optional-entries) as appropriate. It is recommended that you please complete as many fields as possible in the JSON file, as this helps provide the most information to users within the Textpattern plugins site.
 
 ### Example structure
 
