@@ -62,10 +62,13 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 ### Required entries
 
 * `name`\
-The name of the plugin, including the plugin author prefix.
-* `stable` and/or `beta`: at least one of either `stable` and/or `beta` nodes need to be stated. If the plugin has no official `stable` release, then `beta` release will take precedence.
-* `version`: `stable`, `beta` and `legacy` nodes each require a `version` entry in `semver` format (e.g. `1.3.8`).
-* `downloadUrlPhp` and/or `downloadUrlTxt`: `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlPhp` and/or `downloadUrlTxt` nodes to be stated. `downloadUrlPhp` refers to download URL of the PHP version of the plugin, `downloadUrlTxt` refers to the download URL of the TXT-compiled version of the plugin.
+  The name of the plugin, including the plugin author prefix.
+* `stable` and/or `beta`\
+  At least one of either `stable` and/or `beta` nodes need to be stated. If the plugin has no official `stable` release, then `beta` release will take precedence.
+* `version`\
+  `stable`, `beta` and `legacy` nodes each require a `version` entry in `semver` format (e.g. `1.3.8`).
+* `downloadUrlPhp` and/or `downloadUrlTxt`\
+  `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlPhp` and/or `downloadUrlTxt` nodes to be stated. `downloadUrlPhp` refers to download URL of the PHP version of the plugin, `downloadUrlTxt` refers to the download URL of the TXT-compiled version of the plugin.
 
 
 ### Example absolute minimum structure
@@ -84,14 +87,12 @@ This is the absolutely minimum that is required in each JSON file. Note that, as
 
 ### Optional entries
 
-`repositories`
-One or more code repositories where the the project is maintained. For each entry, a `repoType` and `repoUrl` must be provided. For `repoType` expected values are either `homepage` (i.e. page on an author's website specifically about the plugin), `github`, `bitbucket` or `gitlab`.
-
-`datePublished`
-Release date (in ISO 8601 `yyyy-mm-dd` format) of version.
-
-`legacy`
-One or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version of Textpattern it worked with. For example `4.6`.
+* `repositories`\
+  One or more code repositories where the the project is maintained. For each entry, a `repoType` and `repoUrl` must be provided. For `repoType` expected values are either `homepage` (i.e. page on an author's website specifically about the plugin), `github`, `bitbucket` or `gitlab`.
+* `datePublished`\
+  Release date (in ISO 8601 `yyyy-mm-dd` format) of version.
+* `legacy`\
+  One or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version of Textpattern it worked with. For example `4.6`.
 
 ## License
 
