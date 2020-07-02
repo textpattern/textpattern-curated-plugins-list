@@ -1,5 +1,7 @@
 # textpattern-curated-plugins-list
 
+[![Build Status](https://travis-ci.com/textpattern/textpattern-curated-plugins-list.svg?branch=master)](https://travis-ci.com/textpattern/textpattern-curated-plugins-list)
+
 A curated list of [Textpattern CMS](https://textpattern.com) plugins. Data is utilized in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
 
 ## JSON structure
