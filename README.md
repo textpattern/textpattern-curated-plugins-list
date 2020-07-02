@@ -74,7 +74,7 @@ We also provide a [JSON template](https://raw.githubusercontent.com/textpattern/
 * `version`:\
   `stable`, `beta` and `legacy` nodes each require a `version` entry in `semver` format (e.g. `1.3.8`).
 * `downloadUrlPhp` and/or `downloadUrlTxt`:\
-  `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlPhp` and/or `downloadUrlTxt` nodes to be stated. `downloadUrlPhp` refers to download URL of the PHP version of the plugin, `downloadUrlTxt` refers to the download URL of the TXT-encoded version of the plugin.
+  `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlPhp` and/or `downloadUrlTxt` nodes to be stated. `downloadUrlPhp` refers to the download URL of the PHP version of the plugin, `downloadUrlTxt` refers to the download URL of the TXT-encoded version of the plugin.
 
 
 ### Example absolute minimum structure
