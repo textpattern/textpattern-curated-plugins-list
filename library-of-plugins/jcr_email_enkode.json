@@ -1,0 +1,15 @@
+{
+  "name": "jcr_email_enkode",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/jools-r/jcr_email_enkode"
+    }
+  ],
+  "stable": {
+    "version": "0.3",
+    "datePublished": "2020-05-05",
+    "downloadUrlPhp": "https://github.com/jools-r/jcr_email_enkode/archive/0.3.0.zip",
+    "downloadUrlTxt": "https://github.com/jools-r/jcr_email_enkode/releases/download/0.3.0/jcr_email_encode-0.3.txt"
+  }
+}
