@@ -21,6 +21,10 @@ The Textpattern plugins website digests the information for each card to provide
       "repoUrl": "https://github.com/exampleuser/abc_example"
     },
     {
+      "repoType": "gitlab",
+      "repoUrl": "https://gitlab.com/exampleuser/abc_example"
+    },
+    {
       "repoType": "bitbucket",
       "repoUrl": "https://bitbucket.org/exampleuser/abc_example"
     },
