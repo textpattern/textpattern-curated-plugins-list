@@ -1,6 +1,6 @@
 # textpattern-curated-plugins-list
 
-A curated list of [Textpattern CMS](https://textpattern.com) plugins, in JSON format. Data is utilized in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
+A curated list of [Textpattern CMS](https://textpattern.com) plugins. Data is utilized in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
 
 ## JSON structure
 
