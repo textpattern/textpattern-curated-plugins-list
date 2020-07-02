@@ -59,12 +59,12 @@ The Textpattern plugins website digests the information for each card to provide
 }
 ```
 
-We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) as a useful starting point.
+We also provide a [JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) as a useful starting point.
 
 ### Required entries
 
 * `name`:\
-  The name of the plugin, including the plugin author prefix.
+  The name of the plugin, including the [plugin author prefix](https://docs.textpattern.com/brand/author-prefixes-and-registration).
 * `stable` and/or `beta`:\
   At least one of either `stable` and/or `beta` nodes need to be stated. If the plugin has no official `stable` release, then `beta` release will take precedence.
 * `version`:\
