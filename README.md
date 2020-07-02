@@ -92,7 +92,7 @@ This is the absolute minimum that is required in each JSON file. Note that, as d
 * `datePublished`:\
   Release date (in ISO 8601 `yyyy-mm-dd` format) of version.
 * `legacy`:\
-  One or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version of Textpattern it worked with. For example `4.6`.
+  One or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version series of Textpattern it worked with. For example `4.6`.
 
 ## License
 
