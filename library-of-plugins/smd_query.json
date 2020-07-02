@@ -1,0 +1,14 @@
+{
+  "name": "smd_query",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_query"
+    }
+  ],
+  "stable": {
+    "version": "0.6.0",
+    "datePublished": "2020-05-16",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_query/archive/v0.6.0.zip"
+  }
+}
