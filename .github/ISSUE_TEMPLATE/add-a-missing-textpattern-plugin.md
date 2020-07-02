@@ -18,12 +18,12 @@ xxx_xxxxx
   "name": "{prefix_plugin-name}",
   "repositories": [
     {
-      "repoType": "{repo-site}",
-      "repoUrl": "{repo-site-username}/{repo-project-name}"
+      "repoType": "{homepage-github-bitbucket-gitlab}",
+      "repoUrl": "{url-of-repo-project}"
     },
     {
-      "repoType": "homepage",
-      "repoUrl": "{url-of-plugin-homepage}"
+      "repoType": "{homepage-github-bitbucket-gitlab}",
+      "repoUrl": "{url-of-repo-project}"
     }
   ],
   "beta": {
