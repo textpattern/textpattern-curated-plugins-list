@@ -4,6 +4,10 @@
     {
       "repoType": "github",
       "repoUrl": "https://github.com/Bloke/smd_query"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/sw/plugins/smd_query"
     }
   ],
   "stable": {
