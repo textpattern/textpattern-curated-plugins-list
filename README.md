@@ -96,6 +96,16 @@ This is the absolute minimum that is required in each JSON file. Note that, as d
 * `legacy`:\
   One or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version of Textpattern it worked with. For example `4.6`.
 
+### Linting
+
+You can run a linter over the JSON files to check validity as follows (requires [Node.js](https://nodejs.org/)):
+
+```ShellSession
+$ cd textpattern-curated-plugins-list
+$ npm install
+$ npm run jsonlint
+```
+
 ## License
 
 Licensed under MIT license.
