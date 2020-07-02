@@ -4,7 +4,7 @@ A curated list of [Textpattern CMS](https://textpattern.com) plugins, in JSON fo
 
 ## JSON structure
 
-Each curated plugin has a JSON-formatted 'library card', located within the `library-of-plugins` directory of this GitHub repository.
+Each plugin has a JSON-formatted 'library card', located within the `library-of-plugins` directory of this GitHub repository.
 
 The information for each card is then digested by the Textpattern plugins website to provide the full details of the plugin. Each card expects a set of [required entries](#required-entries) plus any [optional entries](#optional-entries) as appropriate. **It is recommended** that you please complete as many fields as possible in the JSON file, as this helps provide the most information to users within the Textpattern plugins site.
 
