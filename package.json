@@ -13,7 +13,8 @@
     "@prantlf/jsonlint": "10.2.0"
   },
   "scripts": {
-    "jsonlint": "jsonlint -q library-of-plugins/*.json"
+    "jsonlint": "jsonlint -q library-of-plugins/*.json",
+    "test": "jsonlint --verbose"
   },
   "license": "MIT"
 }
