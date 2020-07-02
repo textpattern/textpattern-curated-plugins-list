@@ -61,7 +61,8 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 
 ### Required entries
 
-* `name`: The name of the plugin, including the plugin author prefix.
+* `name`\
+The name of the plugin, including the plugin author prefix.
 * `stable` and/or `beta`: at least one of either `stable` and/or `beta` nodes need to be stated. If the plugin has no official `stable` release, then `beta` release will take precedence.
 * `version`: `stable`, `beta` and `legacy` nodes each require a `version` entry in `semver` format (e.g. `1.3.8`).
 * `downloadUrlPhp` and/or `downloadUrlTxt`: `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlPhp` and/or `downloadUrlTxt` nodes to be stated. `downloadUrlPhp` refers to download URL of the PHP version of the plugin, `downloadUrlTxt` refers to the download URL of the TXT-compiled version of the plugin.
