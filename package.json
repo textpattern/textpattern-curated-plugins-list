@@ -1,0 +1,19 @@
+{
+  "name": "textpattern-curated-plugins-list",
+  "description": "A curated list of Textpattern plugins, in JSON format.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/textpattern/textpattern-curated-plugins-list"
+  },
+  "bugs": {
+    "url": "https://github.com/textpattern/textpattern-curated-plugins-list/issues"
+  },
+  "devDependencies": {
+    "@prantlf/jsonlint": "10.2.0"
+  },
+  "scripts": {
+    "jsonlint": "jsonlint -q library-of-plugins/*.json"
+  },
+  "license": "MIT"
+}
