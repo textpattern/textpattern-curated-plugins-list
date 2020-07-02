@@ -62,7 +62,7 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 ### Required entries
 
 `name`
-The name of the plugin, including the plugin author prefix.
+: The name of the plugin, including the plugin author prefix.
 
 `stable` and/or `beta`
 At least one of either `stable` and/or `beta` nodes need to be stated. If the plugin has no official `stable` release, then `beta` release will take precedence.
