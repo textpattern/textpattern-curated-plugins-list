@@ -73,7 +73,7 @@ We also provide [a JSON template](https://raw.githubusercontent.com/textpattern/
 
 ### Example absolute minimum structure
 
-This is the absolutely minimum that is required in each JSON file. Note that, as described above, `stable` or `beta` could be stated on line 3:
+This is the absolute minimum that is required in each JSON file. Note that, as described above, `stable` or `beta` could be stated on line 3:
 
 ```JSON
 {
