@@ -14,7 +14,7 @@
   },
   "scripts": {
     "jsonlint": "jsonlint -q library-of-plugins/*.json",
-    "test": "jsonlint --verbose"
+    "test": "jsonlint"
   },
   "license": "MIT"
 }
