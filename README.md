@@ -36,13 +36,15 @@ The Textpattern plugins website digests the information for each card to provide
   "beta": {
     "version": "3.7.1-beta.3",
     "datePublished": "2020-06-26",
-    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip"
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.1-beta.3.zip",
+    "phpHasManifest": 1
   },
   "stable": {
     "version": "3.7.0",
     "datePublished": "2020-02-14",
     "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt",
-    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip"
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
+    "phpHasManifest": 1
   },
   "legacy": [
     {
@@ -50,7 +52,8 @@ The Textpattern plugins website digests the information for each card to provide
         "version": "v2.5.3",
         "datePublished": "2018-10-18",
         "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.txt",
-        "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz"
+        "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz",
+        "phpHasManifest": 0
       }
     },
     {
@@ -75,23 +78,25 @@ We also provide a [JSON template](https://raw.githubusercontent.com/textpattern/
   `stable`, `beta` and `legacy` nodes each require a `version` entry in `semver` format (e.g. `1.3.8`).
 * `downloadUrlTxt` and/or `downloadUrlPhp`:\
   `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlTxt` and/or `downloadUrlPhp` nodes to be stated. `downloadUrlTxt` refers to the download URL of the TXT-encoded version of the plugin, `downloadUrlPhp` refers to the download URL of the PHP version of the plugin.
-
+* `phpHasManifest`:\
+  `stable`, `beta` and `legacy` nodes each require a `phpHasManifest` entry if `downloadUrlPhp` nodes are stated. Boolean values (`1` if the `manifest.json` file exists, otherwise `0`). If a `phpHasManifest` entry is missing, it is assumed the manifest.json file does not exist for that release. When only `downloadUrlTxt` is stated, the `phpHasManifest` entry is not required (and is ignored, if present). For more information on plugin manifest files, [see below](#manifests-for-php-versions-of-plugins).
 
 ### Example absolute minimum structure
 
-This is the absolute minimum that is required in each JSON file. Note that, as described above, `stable` or `beta` could be stated on line 3:
+This is the absolute minimum that is required in each JSON file. Note that, as described above, `stable` or `beta` could be stated on line 3. `phpHasManifest` is required when a `downloadUrlPhp` is stated (not required if only a `downloadUrlTxt` is stated):
 
 ```JSON
 {
   "name": "abc_example",
   "stable": {
     "version": "3.7.0",
-    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip"
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
+    "phpHasManifest": 1
   }
 }
 ```
 
-### Optional entries
+### Optional (but recommended) entries
 
 * `repositories`:\
   One or more code repositories where the the project is maintained. For each entry, a `repoType` and `repoUrl` must be provided. For `repoType` expected values are either `homepage` (i.e. page on an author's website specifically about the plugin), `github`, `bitbucket` or `gitlab`.
@@ -99,6 +104,10 @@ This is the absolute minimum that is required in each JSON file. Note that, as d
   Release date (in ISO 8601 `yyyy-mm-dd` format) of version.
 * `legacy`:\
   One or more releases that are specifically for older versions of Textpattern. Each legacy release must be labelled with the maximum version series of Textpattern it worked with. For example `4.6`.
+
+### Manifests for PHP versions of plugins
+
+TODO
 
 ### Linting
 

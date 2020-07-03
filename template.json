@@ -10,13 +10,15 @@
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlTxt": "{url-of-txt-plugin}",
-    "downloadUrlPhp": "{url-of-php-plugin}"
+    "downloadUrlPhp": "{url-of-php-plugin}",
+    "phpHasManifest": "{boolean}"
   },
   "stable": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlTxt": "{url-of-txt-plugin}",
-    "downloadUrlPhp": "{url-of-php-plugin}"
+    "downloadUrlPhp": "{url-of-php-plugin}",
+    "phpHasManifest": "{boolean}"
   },
   "legacy": [
     {
@@ -24,7 +26,8 @@
         "version": "{semver}",
         "datePublished": "{yyyy}-{mm}-{dd}",
         "downloadUrlTxt": "{url-of-txt-plugin}",
-        "downloadUrlPhp": "{url-of-php-plugin}"
+        "downloadUrlPhp": "{url-of-php-plugin}",
+        "phpHasManifest": "{boolean}"
       }
     },
     {
@@ -32,7 +35,8 @@
         "version": "{semver}",
         "datePublished": "{yyyy}-{mm}-{dd}",
         "downloadUrlTxt": "{url-of-txt-plugin}",
-        "downloadUrlPhp": "{url-of-php-plugin}"
+        "downloadUrlPhp": "{url-of-php-plugin}",
+        "phpHasManifest": "{boolean}"
       }
     }
   ]
