@@ -9,7 +9,7 @@
   "stable": {
     "version": "0.3",
     "datePublished": "2020-05-05",
-    "downloadUrlPhp": "https://raw.githubusercontent.com/jools-r/jcr_email_enkode/master/jcr_email_enkode.php",
+    "downloadUrlPhp": "https://raw.githubusercontent.com/jools-r/jcr_email_enkode/54cecdd2bd4c35936cbf27be1668f4c98ec4faca/jcr_email_enkode.php",
     "downloadUrlTxt": "https://github.com/jools-r/jcr_email_enkode/releases/download/0.3.0/jcr_email_encode-0.3.txt"
   }
 }
