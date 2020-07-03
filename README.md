@@ -17,20 +17,20 @@ The Textpattern plugins website digests the information for each card to provide
   "name": "abc_example",
   "repositories": [
     {
-      "repoType": "github",
-      "repoUrl": "https://github.com/exampleuser/abc_example"
+      "repoType": "homepage",
+      "repoUrl": "https://example.com/abc_example.html"
     },
     {
-      "repoType": "gitlab",
-      "repoUrl": "https://gitlab.com/exampleuser/abc_example"
+      "repoType": "github",
+      "repoUrl": "https://github.com/exampleuser/abc_example"
     },
     {
       "repoType": "bitbucket",
       "repoUrl": "https://bitbucket.org/exampleuser/abc_example"
     },
     {
-      "repoType": "homepage",
-      "repoUrl": "https://example.com/abc_example.html"
+      "repoType": "gitlab",
+      "repoUrl": "https://gitlab.com/exampleuser/abc_example"
     }
   ],
   "beta": {
@@ -41,16 +41,16 @@ The Textpattern plugins website digests the information for each card to provide
   "stable": {
     "version": "3.7.0",
     "datePublished": "2020-02-14",
-    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip",
-    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt"
+    "downloadUrlTxt": "https://github.com/exampleuser/abc_example/releases/download/3.7.0/abc_example_v3.7.0.txt",
+    "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/3.7.0.zip"
   },
   "legacy": [
     {
       "4.6": {
         "version": "v2.5.3",
         "datePublished": "2018-10-18",
-        "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz",
-        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.txt"
+        "downloadUrlTxt": "https://github.com/exampleuser/abc_example/archive/v2.5.3.txt",
+        "downloadUrlPhp": "https://github.com/exampleuser/abc_example/archive/v2.5.3.tar.gz"
       }
     },
     {
@@ -73,8 +73,8 @@ We also provide a [JSON template](https://raw.githubusercontent.com/textpattern/
   At least one of either `stable` and/or `beta` nodes need to be stated. If the plugin has no official `stable` release, then `beta` release will take precedence.
 * `version`:\
   `stable`, `beta` and `legacy` nodes each require a `version` entry in `semver` format (e.g. `1.3.8`).
-* `downloadUrlPhp` and/or `downloadUrlTxt`:\
-  `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlPhp` and/or `downloadUrlTxt` nodes to be stated. `downloadUrlPhp` refers to the download URL of the PHP version of the plugin, `downloadUrlTxt` refers to the download URL of the TXT-encoded version of the plugin.
+* `downloadUrlTxt` and/or `downloadUrlPhp`:\
+  `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlTxt` and/or `downloadUrlPhp` nodes to be stated. `downloadUrlTxt` refers to the download URL of the TXT-encoded version of the plugin, `downloadUrlPhp` refers to the download URL of the PHP version of the plugin.
 
 
 ### Example absolute minimum structure

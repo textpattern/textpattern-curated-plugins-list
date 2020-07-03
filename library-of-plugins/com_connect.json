@@ -9,30 +9,23 @@
   "beta": {
     "version": "4.6.0-beta.3",
     "datePublished": "2018-10-05",
-    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.6.0-beta.3.zip",
-    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.6.0-beta.3/com_connect_v4.6.0-beta.3_zip.txt"
+    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.6.0-beta.3/com_connect_v4.6.0-beta.3_zip.txt",
+    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.6.0-beta.3.zip"
+
   },
   "stable": {
     "version": "4.6.0",
     "datePublished": "2020-01-31",
-    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.6.0.zip",
-    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.6.0/com_connect_v4.6.0_zip.txt"
+    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.6.0/com_connect_v4.6.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.6.0.zip"
   },
   "legacy": [
-    {
-      "4.6": {
-        "version": "v4.5.1",
-        "datePublished": "2016-12-03",
-        "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/v4.5.1.tar.gz",
-        "downloadUrlTxt": "https://github.com/textpattern/com_connect/archive/v4.5.1.zip"
-      }
-    },
     {
       "4.5": {
         "version": "v4.5.0.0-beta.4",
         "datePublished": "2016-12-02",
-        "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/v4.5.0.0-beta.4.tar.gz",
-        "downloadUrlTxt": "https://github.com/textpattern/com_connect/archive/v4.5.0.0-beta.4.zip"
+        "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/v4.5.0.0-beta.4/zem_contact_reborn_v4.5.0.0_zip.txt",
+        "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/v4.5.0.0-beta.4.zip"
       }
     }
   ]

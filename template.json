@@ -9,30 +9,30 @@
   "beta": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
-    "downloadUrlPhp": "{url-of-php-plugin}",
-    "downloadUrlTxt": "{url-of-txt-plugin}"
+    "downloadUrlTxt": "{url-of-txt-plugin}",
+    "downloadUrlPhp": "{url-of-php-plugin}"
   },
   "stable": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
-    "downloadUrlPhp": "{url-of-php-plugin}",
-    "downloadUrlTxt": "{url-of-txt-plugin}"
+    "downloadUrlTxt": "{url-of-txt-plugin}",
+    "downloadUrlPhp": "{url-of-php-plugin}"
   },
   "legacy": [
     {
       "4.6": {
         "version": "{semver}",
         "datePublished": "{yyyy}-{mm}-{dd}",
-        "downloadUrlPhp": "{url-of-php-plugin}",
-        "downloadUrlTxt": "{url-of-txt-plugin}"
+        "downloadUrlTxt": "{url-of-txt-plugin}",
+        "downloadUrlPhp": "{url-of-php-plugin}"
       }
     },
     {
       "4.5": {
         "version": "{semver}",
         "datePublished": "{yyyy}-{mm}-{dd}",
-        "downloadUrlPhp": "{url-of-php-plugin}",
-        "downloadUrlTxt": "{url-of-txt-plugin}"
+        "downloadUrlTxt": "{url-of-txt-plugin}",
+        "downloadUrlPhp": "{url-of-php-plugin}"
       }
     }
   ]
