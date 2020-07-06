@@ -10,7 +10,8 @@
     "version": "0.4.3",
     "datePublished": "2019-10-13",
     "downloadUrlTxt": "https://github.com/gocom/rah_flat/releases/download/0.4.3/rah_flat_v0.4.3_zip.txt",
-    "downloadUrlPhp": "https://github.com/gocom/rah_flat/archive/0.4.3.zip"
+    "downloadUrlPhp": "https://github.com/gocom/rah_flat/archive/0.4.3.zip",
+    "phpHasManifest": 0
   },
   "legacy": [
     {
@@ -18,7 +19,8 @@
         "version": "0.3.0",
         "datePublished": "2014-03-28",
         "downloadUrlTxt": "https://github.com/gocom/rah_flat/releases/download/0.3.0/rah_flat_v0.3.0_zip.txt",
-        "downloadUrlPhp": "https://github.com/gocom/rah_flat/archive/0.3.0.zip"
+        "downloadUrlPhp": "https://github.com/gocom/rah_flat/archive/0.3.0.zip",
+        "phpHasManifest": 1
       }
     }
   ]

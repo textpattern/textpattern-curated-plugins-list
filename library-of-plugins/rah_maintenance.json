@@ -9,7 +9,8 @@
   "stable": {
     "version": "0.2.0",
     "datePublished": "2019-04-20",
-    "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.2.0.zip"
+    "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.2.0.zip",
+    "phpHasManifest": 1
   },
   "legacy": [
     {
@@ -17,7 +18,8 @@
         "version": "0.1.1",
         "datePublished": "2014-03-28",
         "downloadUrlTxt": "https://github.com/gocom/rah_maintenance/releases/download/0.1.1/rah_maintenance_v0.1.1_zip.txt",
-        "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.1.1.zip"
+        "downloadUrlPhp": "https://github.com/gocom/rah_maintenance/archive/0.1.1.zip",
+        "phpHasManifest": 1
       }
     }
   ]

@@ -14,6 +14,7 @@
     "version": "0.6.0",
     "datePublished": "2020-05-16",
     "downloadUrlTxt": "https://github.com/Bloke/smd_query/releases/download/v0.6.0/smd_query_v0.6.0_zip.txt",
-    "downloadUrlPhp": "https://github.com/Bloke/smd_query/archive/v0.6.0.zip"
+    "downloadUrlPhp": "https://github.com/Bloke/smd_query/archive/v0.6.0.zip",
+    "phpHasManifest": 1
   }
 }

@@ -10,6 +10,7 @@
     "version": "0.1.0",
     "datePublished": "2014-03-28",
     "downloadUrlTxt": "https://github.com/gocom/rah_sitemap_links/releases/download/0.1.0/rah_sitemap_links_v0.1.0_zip.txt",
-    "downloadUrlPhp": "https://github.com/gocom/rah_sitemap_links/archive/0.1.0.zip"
+    "downloadUrlPhp": "https://github.com/gocom/rah_sitemap_links/archive/0.1.0.zip",
+    "phpHasManifest": 1
   }
 }
