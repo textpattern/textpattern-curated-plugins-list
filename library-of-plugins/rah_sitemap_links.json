@@ -6,6 +6,9 @@
       "repoUrl": "https://github.com/gocom/rah_sitemap_links"
     }
   ],
+  "require": {
+    "rah_sitemap": ">=1.3.0"
+  },
   "stable": {
     "version": "0.1.0",
     "datePublished": "2014-03-28",
