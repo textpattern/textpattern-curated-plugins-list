@@ -1,0 +1,31 @@
+{
+  "name": "rah_function",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_function"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_function"
+    }
+  ],
+  "stable": {
+    "version": "0.8.0",
+    "datePublished": "2019-04-07",
+    "downloadUrlTxt": "https://github.com/gocom/rah_function/releases/download/0.7.2/rah_function_v0.7.2_zip.txt",
+    "downloadUrlPhp": "https://github.com/gocom/rah_function/archive/0.7.2.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.7.2",
+        "datePublished": "2014-03-20",
+        "downloadUrlTxt": "https://github.com/gocom/rah_function/releases/download/0.7.1/rah_function_v0.7.1_zip.txt",
+        "downloadUrlPhp": "https://github.com/gocom/rah_function/archive/0.7.1.zip",
+        "phpHasManifest": 1
+      }
+    }
+  ]
+}
