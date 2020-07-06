@@ -1,0 +1,18 @@
+{
+  "name": "wet_quickopen",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/rwetzlmayr/wet_quickopen"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://awasteofwords.com/software/wet_quickopen-textpattern-plugin"
+    }
+  ],
+  "stable": {
+    "version": "1.4.0",
+    "datePublished": "2019-04-04",
+    "downloadUrlTxt": "https://raw.githubusercontent.com/rwetzlmayr/wet_quickopen/353dcd750d85908eab16f8ac33c25f3972cbf74b/wet_quickopen.txt"
+  }
+}
