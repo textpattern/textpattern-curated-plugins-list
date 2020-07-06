@@ -1,0 +1,25 @@
+{
+  "name": "rah_debug",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_debug"
+    }
+  ],
+  "stable": {
+    "version": "0.3.0",
+    "datePublished": "2019-03-24",
+    "downloadUrlPhp": "https://github.com/gocom/rah_debug/archive/0.3.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.2.3",
+        "datePublished": "2013-05-07",
+        "downloadUrlPhp": "https://github.com/gocom/rah_debug/archive/0.2.3.zip",
+        "phpHasManifest": 1
+      }
+    }
+  ]
+}
