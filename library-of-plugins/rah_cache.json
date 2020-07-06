@@ -1,0 +1,15 @@
+{
+  "name": "rah_cache",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_cache"
+    }
+  ],
+  "stable": {
+    "version": "0.2.0",
+    "datePublished": "2013-07-21",
+    "downloadUrlPhp": "https://github.com/gocom/rah_cache/archive/0.2.0.zip",
+    "phpHasManifest": 1
+  }
+}
