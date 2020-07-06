@@ -1,0 +1,30 @@
+{
+  "name": "rah_repeat",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_repeat"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_repeat"
+    }
+  ],
+  "stable": {
+    "version": "2.0.0",
+    "datePublished": "2019-04-06",
+    "downloadUrlPhp": "https://github.com/gocom/rah_repeat/archive/2.0.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "1.1.0",
+        "datePublished": "2014-03-19",
+        "downloadUrlTxt": "https://github.com/gocom/rah_repeat/releases/download/1.1.0/rah_repeat_v1.1.0_zip.txt",
+        "downloadUrlPhp": "https://github.com/gocom/rah_repeat/archive/1.1.0.zip",
+        "phpHasManifest": 1
+      }
+    }
+  ]
+}
