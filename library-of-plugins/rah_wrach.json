@@ -1,0 +1,29 @@
+{
+  "name": "rah_wrach",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_wrach"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_wrach"
+    }
+  ],
+  "stable": {
+    "version": "0.4.0",
+    "datePublished": "2019-03-31",
+    "downloadUrlPhp": "https://github.com/gocom/rah_wrach/archive/0.4.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.3",
+        "datePublished": "2012-08-31",
+        "downloadUrlPhp": "https://github.com/gocom/rah_wrach/archive/v0.3.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
