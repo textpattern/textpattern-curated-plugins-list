@@ -1,0 +1,15 @@
+{
+  "name": "rah_pathway",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_pathway"
+    }
+  ],
+  "stable": {
+    "version": "0.1.0",
+    "datePublished": "2019-04-09",
+    "downloadUrlPhp": "https://github.com/gocom/rah_pathway/archive/0.1.0.zip",
+    "phpHasManifest": 1
+  }
+}
