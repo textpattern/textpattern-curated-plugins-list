@@ -1,0 +1,29 @@
+{
+  "name": "rah_tabtor",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_tabtor"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_tabtor"
+    }
+  ],
+  "stable": {
+    "version": "0.4.0",
+    "datePublished": "2019-04-07",
+    "downloadUrlPhp": "https://github.com/gocom/rah_tabtor/archive/0.4.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.3.1",
+        "datePublished": "2012-08-30",
+        "downloadUrlPhp": "https://github.com/gocom/rah_tabtor/archive/v0.3.1.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
