@@ -1,0 +1,15 @@
+{
+  "name": "rah_autoload",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_autoload"
+    }
+  ],
+  "stable": {
+    "version": "0.8.0",
+    "datePublished": "2019-03-24",
+    "downloadUrlPhp": "https://github.com/gocom/rah_autoload/archive/0.3.2.zip",
+    "phpHasManifest": 1
+  }
+}
