@@ -1,0 +1,26 @@
+{
+  "name": "rah_privileges",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_privileges"
+    }
+  ],
+  "stable": {
+    "version": "0.2.0",
+    "datePublished": "2019-03-24",
+    "downloadUrlPhp": "https://github.com/gocom/rah_privileges/archive/0.2.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.1.1",
+        "datePublished": "2015-03-04",
+        "downloadUrlTxt": "https://github.com/gocom/rah_privileges/releases/download/0.1.1/rah_privileges_v0.1.1_zip.txt",
+        "downloadUrlPhp": "https://github.com/gocom/rah_privileges/archive/0.1.1.zip",
+        "phpHasManifest": 1
+      }
+    }
+  ]
+}
