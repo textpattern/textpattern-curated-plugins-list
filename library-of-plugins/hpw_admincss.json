@@ -1,0 +1,15 @@
+{
+  "name": "hpw_admincss",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/hpw_admincss"
+    }
+  ],
+  "stable": {
+    "version": "0.3.0",
+    "datePublished": "2019-04-13",
+    "downloadUrlPhp": "https://github.com/gocom/hpw_admincss/archive/0.3.0.zip",
+    "phpHasManifest": 1
+  }
+}
