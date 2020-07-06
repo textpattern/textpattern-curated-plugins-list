@@ -21,6 +21,7 @@
       "4.6": {
         "version": "0.3.1",
         "datePublished": "2012-08-30",
+        "downloadUrlTxt": "https://rahforum.biz/d/rah_tabtor_v0.3.1_zip.txt",
         "downloadUrlPhp": "https://github.com/gocom/rah_tabtor/archive/v0.3.1.zip",
         "phpHasManifest": 0
       }

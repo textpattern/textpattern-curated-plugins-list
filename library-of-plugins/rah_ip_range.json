@@ -13,6 +13,7 @@
   "stable": {
     "version": "0.4",
     "datePublished": "2012-07-13",
+    "downloadUrlTxt": "https://rahforum.biz/d/rah_ip_range_v0.4_zip.txt",
     "downloadUrlPhp": "https://github.com/gocom/rah_ip_range/archive/v0.4.zip",
     "phpHasManifest": 0
   }

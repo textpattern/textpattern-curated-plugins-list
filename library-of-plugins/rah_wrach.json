@@ -21,6 +21,7 @@
       "4.6": {
         "version": "0.3",
         "datePublished": "2012-08-31",
+        "downloadUrlTxt": "https://rahforum.biz/d/rah_wrach_v0.3_zip.txt",
         "downloadUrlPhp": "https://github.com/gocom/rah_wrach/archive/v0.3.zip",
         "phpHasManifest": 0
       }
