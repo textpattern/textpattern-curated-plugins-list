@@ -1,0 +1,30 @@
+{
+  "name": "rah_custom_feed",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_custom_feed"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_custom_feed"
+    }
+  ],
+  "stable": {
+    "version": "0.3.0",
+    "datePublished": "2019-03-31",
+    "downloadUrlPhp": "https://github.com/gocom/rah_custom_feed/archive/0.3.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.2.0",
+        "datePublished": "2012-07-12",
+        "downloadUrlTxt": "https://rahforum.biz/d/rah_custom_feed_v0.2_zip.txt",
+        "downloadUrlPhp": "https://github.com/gocom/rah_custom_feed/archive/v0.2.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
