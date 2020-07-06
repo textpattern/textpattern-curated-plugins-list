@@ -10,6 +10,9 @@
       "repoUrl": "https://awasteofwords.com/software/wet_quickopen-textpattern-plugin"
     }
   ],
+  "require": {
+    "wet_peex": ">=1.0.0"
+  },
   "stable": {
     "version": "1.4.0",
     "datePublished": "2019-04-04",
