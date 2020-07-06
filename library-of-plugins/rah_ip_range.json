@@ -1,0 +1,19 @@
+{
+  "name": "rah_ip_range",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/gocom/rah_ip_range"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://rahforum.biz/plugins/rah_ip_range"
+    }
+  ],
+  "stable": {
+    "version": "0.4",
+    "datePublished": "2012-07-13",
+    "downloadUrlPhp": "https://github.com/gocom/rah_ip_range/archive/v0.4.zip",
+    "phpHasManifest": 0
+  }
+}
