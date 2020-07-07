@@ -1,0 +1,16 @@
+{
+  "name": "pat_if_amp",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/cara-tm/pat_if_amp"
+    }
+  ],
+  "stable": {
+    "version": "0.3.7",
+    "datePublished": "2018-04-21",
+    "downloadUrlTxt": "https://github.com/cara-tm/pat_if_amp/releases/download/v0.3.7/pat_if_amp_v0.3.7_zip.txt",
+    "downloadUrlPhp": "https://github.com/cara-tm/pat_if_amp/archive/v0.3.7.zip",
+    "phpHasManifest": 1
+  }
+}
