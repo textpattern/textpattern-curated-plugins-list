@@ -1,0 +1,31 @@
+{
+  "name": "smd_thumbnail",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_thumbnail"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/sw/plugins/smd_thumbnail"
+    }
+  ],
+  "stable": {
+    "version": "0.5.3",
+    "datePublished": "2020-05-16",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_thumbnail/releases/download/0.5.3/smd_thumbnail_v0.5.3_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_thumbnail/archive/0.5.3.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.5": {
+        "version": "0.3.1",
+        "datePublished": "2014-03-20",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_thumbnail/releases/download/v0.31/smd_thumbnail_v0.31_zip.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/smd_thumbnail/archive/v0.31.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
