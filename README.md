@@ -120,7 +120,7 @@ In order to allow PHP versions of a plugin to be upgraded via auto-update functi
   "description": "An example plugin description here.",
   "version": "0.1.0",
   "type": 5,
-  "author": "Aaron A Aardvark",
+  "author": "Aaron A. Aardvark",
   "author_uri": "https://example.com/",
   "order": 5,
   "flags": 2,
