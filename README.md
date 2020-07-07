@@ -33,6 +33,9 @@ The Textpattern plugins website digests the information for each card to provide
       "repoUrl": "https://gitlab.com/exampleuser/abc_example"
     }
   ],
+  "require": {
+    "abc_extra_example": ">=2.0.0"
+  },
   "beta": {
     "version": "3.7.1-beta.3",
     "datePublished": "2020-06-26",
@@ -98,6 +101,8 @@ This is the minimum that is required in each JSON file. Note that, as described 
 
 ### Optional (but recommended) entries
 
+* `require`:\
+  If this plugin requires another plugin to be installed in order to work, state the plugin and version requirements.
 * `repositories`:\
   One or more code repositories where the the project is maintained. For each entry, a `repoType` and `repoUrl` must be provided. For `repoType` expected values are either `homepage` (i.e. page on an author's website specifically about the plugin), `github`, `bitbucket` or `gitlab`.
 * `datePublished`:\
@@ -107,7 +112,26 @@ This is the minimum that is required in each JSON file. Note that, as described 
 
 ### Manifests for PHP versions of plugins
 
-TODO
+In order to allow PHP versions of a plugin to be upgraded via auto-update functionality directly within (future) Textpattern, a `manifest.json` file in the following format is expected to reside within the root directory of the plugin folder:
+
+```
+{
+  "name": "abc_example",
+  "description": "An example plugin description here.",
+  "version": "0.1.0",
+  "type": 5,
+  "author": "Aaron A Aardvark",
+  "author_uri": "https://example.com/",
+  "order": 5,
+  "flags": 2,
+  "help": {"file" : ["./README.textile"]},
+  "code": {"file" : ["./abc_example.php"]},
+  "textpack": {"file" : ["./textpack.txp"]},
+  "data": {"file" : ["./data.txp"]}
+}
+```
+
+Plugins that do not follow the above format, and/or that do not have an alternative TXT file available, will be excluded from auto-update functionality.
 
 ### Linting
 
