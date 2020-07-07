@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/textpattern/textpattern-curated-plugins-list.svg?branch=master)](https://travis-ci.com/textpattern/textpattern-curated-plugins-list)
 
-A curated list of [Textpattern CMS](https://textpattern.com) plugins used in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
+A curated list of [Textpattern CMS](https://textpattern.com) plugins listed in the [Textpattern plugins website](https://github.com/textpattern/textpattern-plugins-website).
 
 ## JSON structure
 
@@ -66,7 +66,7 @@ The Textpattern plugins website digests the information for each card to provide
 }
 ```
 
-We also provide a [JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) as a useful starting point.
+A [JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) as a useful starting point.
 
 ### Required entries
 
@@ -79,11 +79,11 @@ We also provide a [JSON template](https://raw.githubusercontent.com/textpattern/
 * `downloadUrlTxt` and/or `downloadUrlPhp`:\
   `stable`, `beta` and `legacy` nodes each require at least one of either `downloadUrlTxt` and/or `downloadUrlPhp` nodes to be stated. `downloadUrlTxt` refers to the download URL of the TXT-encoded version of the plugin, `downloadUrlPhp` refers to the download URL of the PHP version of the plugin.
 * `phpHasManifest`:\
-  `stable`, `beta` and `legacy` nodes each require a `phpHasManifest` entry if `downloadUrlPhp` nodes are stated. Boolean values (`1` if the `manifest.json` file exists, otherwise `0`). If a `phpHasManifest` entry is missing, it is assumed the manifest.json file does not exist for that release. When only `downloadUrlTxt` is stated, the `phpHasManifest` entry is not required (and is ignored, if present). For more information on plugin manifest files, [see below](#manifests-for-php-versions-of-plugins).
+  `stable`, `beta` and `legacy` nodes each require a `phpHasManifest` entry if `downloadUrlPhp` nodes are stated. Boolean values (`1` if the `manifest.json` file exists, otherwise `0`). If a `phpHasManifest` entry is missing, it is assumed the `manifest.json` file does not exist for that release. When only `downloadUrlTxt` is stated, the `phpHasManifest` entry is not required (and is ignored, if present). For more information on plugin manifest files, [see below](#manifests-for-php-versions-of-plugins).
 
-### Example absolute minimum structure
+### Example minimum structure
 
-This is the absolute minimum that is required in each JSON file. Note that, as described above, `stable` or `beta` could be stated on line 3. `phpHasManifest` is required when a `downloadUrlPhp` is stated (not required if only a `downloadUrlTxt` is stated):
+This is the minimum that is required in each JSON file. Note that, as described above, `stable` or `beta` could be stated on line 3. `phpHasManifest` is required when a `downloadUrlPhp` entry is provided (not required if only a `downloadUrlTxt` is provided):
 
 ```JSON
 {
@@ -121,4 +121,4 @@ $ npm run jsonlint
 
 ## License
 
-Licensed under MIT license.
+Licensed under [MIT license](https://github.com/textpattern/textpattern-curated-plugins-list/blob/master/LICENSE).
