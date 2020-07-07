@@ -114,7 +114,7 @@ This is the minimum that is required in each JSON file. Note that, as described 
 
 In order to allow PHP versions of a plugin to be upgraded via auto-update functionality directly within (future) Textpattern, a `manifest.json` file in the following format is expected to reside within the root directory of the plugin folder:
 
-```
+```JSON
 {
   "name": "abc_example",
   "description": "An example plugin description here.",
