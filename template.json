@@ -6,19 +6,22 @@
       "repoUrl": "{url-of-repo-project}"
     }
   ],
+  "require": {
+    "{prefix_plugin-name}": "{semver}"
+  },
   "beta": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlTxt": "{url-of-txt-plugin}",
     "downloadUrlPhp": "{url-of-php-plugin}",
-    "phpHasManifest": "{boolean}"
+    "phpHasManifest": {boolean}
   },
   "stable": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlTxt": "{url-of-txt-plugin}",
     "downloadUrlPhp": "{url-of-php-plugin}",
-    "phpHasManifest": "{boolean}"
+    "phpHasManifest": {boolean}
   },
   "legacy": [
     {
@@ -27,7 +30,7 @@
         "datePublished": "{yyyy}-{mm}-{dd}",
         "downloadUrlTxt": "{url-of-txt-plugin}",
         "downloadUrlPhp": "{url-of-php-plugin}",
-        "phpHasManifest": "{boolean}"
+        "phpHasManifest": {boolean}
       }
     },
     {
@@ -36,7 +39,7 @@
         "datePublished": "{yyyy}-{mm}-{dd}",
         "downloadUrlTxt": "{url-of-txt-plugin}",
         "downloadUrlPhp": "{url-of-php-plugin}",
-        "phpHasManifest": "{boolean}"
+        "phpHasManifest": {boolean}
       }
     }
   ]

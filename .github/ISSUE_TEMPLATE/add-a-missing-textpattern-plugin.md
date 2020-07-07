@@ -26,33 +26,40 @@ xxx_xxxxx
       "repoUrl": "{url-of-repo-project}"
     }
   ],
+  "require": {
+    "{prefix_plugin-name}": "{semver}"
+  },
   "beta": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
     "downloadUrlPhp": "{url-of-php-plugin}",
-    "downloadUrlTxt": "{url-of-txt-plugin}"
+    "downloadUrlTxt": "{url-of-txt-plugin}",
+    "phpHasManifest": {boolean}
   },
   "stable": {
     "version": "{semver}",
     "datePublished": "{yyyy}-{mm}-{dd}",
+    "downloadUrlTxt": "{url-of-txt-plugin}",
     "downloadUrlPhp": "{url-of-php-plugin}",
-    "downloadUrlTxt": "{url-of-txt-plugin}"
+    "phpHasManifest": {boolean}
   },
   "legacy": [
     {
       "4.6": {
         "version": "{semver}",
         "datePublished": "{yyyy}-{mm}-{dd}",
+        "downloadUrlTxt": "{url-of-txt-plugin}",
         "downloadUrlPhp": "{url-of-php-plugin}",
-        "downloadUrlTxt": "{url-of-txt-plugin}"
+        "phpHasManifest": {boolean}
       }
     },
     {
       "4.5": {
         "version": "{semver}",
         "datePublished": "{yyyy}-{mm}-{dd}",
+        "downloadUrlTxt": "{url-of-txt-plugin}",
         "downloadUrlPhp": "{url-of-php-plugin}",
-        "downloadUrlTxt": "{url-of-txt-plugin}"
+        "phpHasManifest": {boolean}
       }
     }
   ]
