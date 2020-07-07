@@ -13,6 +13,13 @@
   },
   "legacy": [
     {
+      "4.6": {
+        "version": "1.4.0",
+        "datePublished": "2016-02-09",
+        "downloadUrlTxt": "https://github.com/drmonkeyninja/arc_social_share/blob/02eb03db72240fa1eae3780db66ecc7b1e38c76b/dist/arc_social_share.txt"
+      }
+    },
+    {
       "4.5": {
         "version": "1.3.2",
         "datePublished": "2015-03-27",
