@@ -1,0 +1,23 @@
+{
+  "name": "arc_social_share",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/drmonkeyninja/arc_social_share"
+    }
+  ],
+  "stable": {
+    "version": "1.5.0",
+    "datePublished": "2018-05-16",
+    "downloadUrlTxt": "https://github.com/drmonkeyninja/arc_social_share/blob/8cd5f232b81a57305128d99fd25148861593fe85/dist/arc_social_share.txt"
+  },
+  "legacy": [
+    {
+      "4.5": {
+        "version": "1.3.2",
+        "datePublished": "2015-03-27",
+        "downloadUrlTxt": "https://github.com/drmonkeyninja/arc_social_share/blob/87a8c7452259a14362739013780d63247d05567e/dist/arc_social_share.txt"
+      }
+    }
+  ]
+}
