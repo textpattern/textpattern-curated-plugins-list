@@ -1,0 +1,16 @@
+{
+  "name": "jcr_link_custom",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/jools-r/jcr_link_custom"
+    }
+  ],
+  "stable": {
+    "version": "0.1.1",
+    "datePublished": "2016-12-05",
+    "downloadUrlTxt": "https://github.com/jools-r/jcr_link_custom/blob/fea689ac0a15014f314c63f33b17ac11c425faa1/jcr_link_custom_v0.1.1.txt",
+    "downloadUrlPhp": "https://github.com/jools-r/jcr_link_custom/archive/v0.1.1.zip",
+    "phpHasManifest": 0
+  }
+}
