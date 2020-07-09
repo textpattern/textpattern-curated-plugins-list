@@ -1,0 +1,40 @@
+{
+  "name": "smd_bio",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_bio"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/sw/plugins/smd_bio"
+    }
+  ],
+  "stable": {
+    "version": "0.5.0",
+    "datePublished": "2020-05-25",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_bio/releases/download/v0.5.0/smd_bio_v0.5.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_bio/archive/v0.5.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.5.0-beta.1",
+        "datePublished": "2017-02-07",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_bio/releases/download/0.50-beta.1/smd_bio_v0.50_zip.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/smd_bio/archive/0.50-beta.1.zip",
+        "phpHasManifest": 0
+      }
+    },
+    {
+      "4.5": {
+        "version": "0.4.1",
+        "datePublished": "2014-10-23",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_bio/releases/download/v0.41/smd_bio_v0.41_zip.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/smd_bio/archive/v0.41.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
