@@ -1,0 +1,40 @@
+{
+  "name": "smd_tags",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_tags"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/sw/plugins/smd_tags"
+    }
+  ],
+  "stable": {
+    "version": "0.8.0",
+    "datePublished": "2020-05-31",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_tags/releases/download/v0.8.0/smd_tags_v0.8.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_tags/archive/v0.8.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.7": {
+        "version": "0.7.0",
+        "datePublished": "2020-03-06",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_tags/releases/download/v0.7.0/smd_tags_v.0.7.0_zip.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/smd_tags/archive/v0.7.0.zip",
+        "phpHasManifest": 1
+      }
+    },
+    {
+      "4.6": {
+        "version": "0.5.1-beta.1",
+        "datePublished": "2017-02-09",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_tags/releases/download/v0.51-beta.1/smd_tags_v0.51_zip.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/smd_tags/archive/v0.51-beta.1.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
