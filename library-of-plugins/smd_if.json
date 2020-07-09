@@ -1,0 +1,20 @@
+{
+  "name": "smd_if",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_if"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/smd_if"
+    }
+  ],
+  "stable": {
+    "version": "1.0.0",
+    "datePublished": "2020-01-12",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_if/releases/download/v1.0.0/smd_if_v1.0.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_if/archive/v1.0.0.zip",
+    "phpHasManifest": 1
+  }
+}
