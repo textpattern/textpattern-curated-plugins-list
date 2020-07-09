@@ -10,15 +10,11 @@
       "repoUrl": "https://stefdawson.com/ied_plugin_composer"
     }
   ],
-  "legacy": [
-    {
-      "4.6": {
-        "version": "1.2.1",
-        "datePublished": "2017-08-18",
-        "downloadUrlTxt": "https://github.com/Bloke/ied_plugin_composer/releases/download/v1.2.1/ied_plugin_composer_v1.2.1.txt",
-        "downloadUrlPhp": "https://github.com/Bloke/ied_plugin_composer/archive/1.2.1.zip",
-        "phpHasManifest": 1
-      }
-    }
-  ]
+  "stable": {
+    "version": "1.2.1",
+    "datePublished": "2017-08-18",
+    "downloadUrlTxt": "https://github.com/Bloke/ied_plugin_composer/releases/download/v1.2.1/ied_plugin_composer_v1.2.1.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/ied_plugin_composer/archive/1.2.1.zip",
+    "phpHasManifest": 1
+  }
 }
