@@ -1,0 +1,23 @@
+{
+  "name": "oui_cookie",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/NicolasGraph/oui_cookie"
+    }
+  ],
+  "beta": {
+    "version": "1.0.0-beta.4",
+    "datePublished": "2018-10-26",
+    "downloadUrlTxt": "https://github.com/NicolasGraph/oui_cookie/releases/download/1.0.0-beta4/oui_cookie_v1.0.0-BETA4_zip.txt",
+    "downloadUrlPhp": "https://github.com/NicolasGraph/oui_cookie/archive/1.0.0-beta4.zip",
+    "phpHasManifest": 1
+  },
+  "stable": {
+    "version": "0.2.3",
+    "datePublished": "2016-06-21",
+    "downloadUrlTxt": "https://github.com/NicolasGraph/oui_cookie/releases/download/v0.2.3/oui_cookie-v0.2.3.txt",
+    "downloadUrlPhp": "https://github.com/NicolasGraph/oui_cookie/archive/v0.2.3.zip",
+    "phpHasManifest": 0
+  }
+}
