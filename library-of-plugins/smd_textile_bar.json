@@ -1,0 +1,20 @@
+{
+  "name": "smd_textile_bar",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_textile_bar"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/smd_textile_bar"
+    }
+  ],
+  "stable": {
+    "version": "0.1.1",
+    "datePublished": "2020-04-26",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_textile_bar/releases/download/v0.1.1/smd_textile_bar.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_textile_bar/archive/v0.1.1.zip",
+    "phpHasManifest": 1
+  }
+}
