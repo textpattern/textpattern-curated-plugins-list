@@ -1,0 +1,27 @@
+{
+  "name": "rss_admin_db_manager",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/rss_admin_db_manager"
+    }
+  ],
+  "stable": {
+    "version": "4.6.0",
+    "datePublished": "2020-07-10",
+    "downloadUrlTxt": "https://github.com/Bloke/rss_admin_db_manager/releases/download/v4.6.0/rss_admin_db_manager_v4.6.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/rss_admin_db_manager/archive/v4.6.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.7": {
+        "version": "4.5.1",
+        "datePublished": "2020-01-11",
+        "downloadUrlTxt": "https://github.com/Bloke/rss_admin_db_manager/releases/download/v4.5.1/rss_admin_db_manager_v4.5.1_zip.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/rss_admin_db_manager/archive/v4.5.1.zip",
+        "phpHasManifest": 1
+      }
+    }
+  ]
+}
