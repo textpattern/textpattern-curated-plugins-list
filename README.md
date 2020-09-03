@@ -69,7 +69,7 @@ The Textpattern plugins website digests the information for each card to provide
 }
 ```
 
-A [JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) as a useful starting point.
+A [JSON template](https://raw.githubusercontent.com/textpattern/textpattern-curated-plugins-list/master/template.json) is provided as a useful starting point.
 
 ### Required entries
 
