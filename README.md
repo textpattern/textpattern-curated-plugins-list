@@ -101,10 +101,10 @@ This is the minimum that is required in each JSON file. Note that, as described 
 
 ### Optional (but recommended) entries
 
-* `require`:\
-  If this plugin requires another plugin to be installed in order to work, state the plugin and version requirements.
 * `repositories`:\
   One or more code repositories where the the project is maintained. For each entry, a `repoType` and `repoUrl` must be provided. For `repoType` expected values are either `homepage` (i.e. page on an author's website specifically about the plugin), `github`, `bitbucket` or `gitlab`.
+* `require`:\
+  If this plugin requires another plugin to be installed in order to work, state the plugin and version requirements.
 * `datePublished`:\
   Release date (in ISO 8601 `yyyy-mm-dd` format) of version.
 * `legacy`:\
