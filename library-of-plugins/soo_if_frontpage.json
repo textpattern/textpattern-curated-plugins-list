@@ -1,0 +1,24 @@
+{
+  "name": "soo_if_frontpage",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/jsoo/soo_if_frontpage"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "http://ipsedixit.net/txp/87/soo_if_frontpage"
+    }
+  ],
+  "legacy": [
+    {
+      "4.6": {
+        "version": "0.1.9",
+        "datePublished": "2017-03-13",
+        "downloadUrlTxt": "http://ipsedixit.net/?rah_plugin_download=soo_if_frontpage",
+        "downloadUrlPhp": "https://github.com/jsoo/soo_if_frontpage/archive/refs/tags/v0.1.9.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
