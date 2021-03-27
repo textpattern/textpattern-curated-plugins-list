@@ -76,3 +76,9 @@ Textpattern version compatibility:
 - [ ] 4.5
 
 **Brief description of plugin (optional)**
+
+**Administration reference (submitter to leave as-is)**
+
+- [ ] JSON added to repo & verified
+- [ ] Create or verify author on site
+- [ ] Article published
