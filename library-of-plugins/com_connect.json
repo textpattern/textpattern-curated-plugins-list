@@ -15,10 +15,10 @@
 
   },
   "stable": {
-    "version": "4.6.0",
-    "datePublished": "2020-01-31",
-    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.6.0/com_connect_v4.6.0_zip.txt",
-    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.6.0.zip",
+    "version": "4.7.0",
+    "datePublished": "2022-01-28",
+    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.7.0/com_connect_v4.7.0.txt",
+    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.7.0.zip",
     "phpHasManifest": 1
   },
   "legacy": [
