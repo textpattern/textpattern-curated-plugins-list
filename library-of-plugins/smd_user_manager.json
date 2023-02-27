@@ -1,0 +1,31 @@
+{
+  "name": "smd_user_manager",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_user_manager"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/sw/plugins/smd_user_manager"
+    }
+  ],
+  "stable": {
+    "version": "0.3.0",
+    "datePublished": "2023-02-27",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_user_manager/releases/download/0.3.0/smd_user_manager_v0.3.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_user_manager/archive/refs/tags/0.3.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.5": {
+        "version": "0.2.1",
+        "datePublished": "2016-03-08",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_user_manager/releases/download/0.2.1/smd_user_manager_v0.21.txt",
+        "downloadUrlPhp": "https://github.com/Bloke/smd_user_manager/archive/refs/tags/0.2.1.zip",
+        "phpHasManifest": 0
+      }
+    }
+  ]
+}
