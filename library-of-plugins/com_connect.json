@@ -7,10 +7,10 @@
     }
   ],
   "beta": {
-    "version": "4.6.0-beta.3",
-    "datePublished": "2018-10-05",
-    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.6.0-beta.3/com_connect_v4.6.0-beta.3_zip.txt",
-    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.6.0-beta.3.zip",
+    "version": "4.9.0-beta",
+    "datePublished": "2023-02-27",
+    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.9.0-beta/com_connect_v4.9.0-beta.txt",
+    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/refs/tags/4.9.0-beta.zip",
     "phpHasManifest": 1
 
   },
