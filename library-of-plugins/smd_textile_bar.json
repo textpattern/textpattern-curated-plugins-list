@@ -10,6 +10,13 @@
       "repoUrl": "https://stefdawson.com/smd_textile_bar"
     }
   ],
+  "beta": {
+    "version": "0.1.2-beta",
+    "datePublished": "2021-02-18",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_textile_bar/releases/download/v0.1.2-beta/smd_textile_bar_v0.1.2-beta.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_textile_bar/archive/refs/tags/v0.1.2-beta.zip",
+    "phpHasManifest": 1
+  },
   "stable": {
     "version": "0.1.1",
     "datePublished": "2020-04-26",
