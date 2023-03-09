@@ -1,0 +1,37 @@
+{
+  "name": "smd_access_keys",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/Bloke/smd_access_keys"
+    },
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://stefdawson.com/smd_access_keys"
+    }
+  ],
+  "stable": {
+    "version": "1.1.0",
+    "datePublished": "2023-03-09",
+    "downloadUrlTxt": "https://github.com/Bloke/smd_access_keys/releases/download/v1.1.0/smd_access_keys_v1.1.0_zip.txt",
+    "downloadUrlPhp": "https://github.com/Bloke/smd_access_keys/archive/refs/tags/v1.1.0.zip",
+    "phpHasManifest": 1
+  },
+  "legacy": [
+    {
+      "4.7": {
+        "version": "1.0.0",
+        "datePublished": "2019-11-12",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_access_keys/releases/download/v1.0.0/smd_access_keys_v1.0.0_zip.txt"
+      }
+    },
+    {
+      "4.5": {
+        "version": "0.1.1",
+        "datePublished": "2015-03-13",
+        "downloadUrlTxt": "https://github.com/Bloke/smd_access_keys/releases/download/v0.11/smd_access_keys_v0.11_zip.txt"
+      }
+    }
+  ]
+}
+
