@@ -1,0 +1,14 @@
+{
+  "name": "ais_feed",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/alieninternet/ais_feed"
+    }
+  ],
+  "stable": {
+    "version": "0.1",
+    "datePublished": "2024-02-12",
+    "downloadUrlTxt": "https://github.com/alieninternet/ais_feed/releases/download/v0.1/ais_feed-v0_1.txt"
+  }
+}
