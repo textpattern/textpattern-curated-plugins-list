@@ -7,9 +7,9 @@
     }
   ],
   "stable": {
-    "version": "v0.7",
-    "datePublished": "2015-10-29",
-    "downloadUrlPhp": "https://github.com/rwetzlmayr/wet_textfilter_markdown/archive/v0.7.zip",
+    "version": "v0.9",
+    "datePublished": "2025-04-22",
+    "downloadUrlPhp": "https://github.com/rwetzlmayr/wet_textfilter_markdown/archive/refs/tags/v0.9.zip",
     "phpHasManifest": 0
   }
 }
