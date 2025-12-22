@@ -6,19 +6,11 @@
       "repoUrl": "https://github.com/textpattern/com_connect"
     }
   ],
-  "beta": {
-    "version": "4.9.0-beta",
-    "datePublished": "2023-02-27",
-    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.9.0-beta/com_connect_v4.9.0-beta.txt",
-    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/refs/tags/4.9.0-beta.zip",
-    "phpHasManifest": 1
-
-  },
   "stable": {
-    "version": "4.7.0",
-    "datePublished": "2022-01-28",
-    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.7.0/com_connect_v4.7.0.txt",
-    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.7.0.zip",
+    "version": "4.9.0",
+    "datePublished": "2025-12-21",
+    "downloadUrlTxt": "https://github.com/textpattern/com_connect/releases/download/4.9.0/com_connect_v4.9.0.txt",
+    "downloadUrlPhp": "https://github.com/textpattern/com_connect/archive/4.9.0.zip",
     "phpHasManifest": 1
   },
   "legacy": [
