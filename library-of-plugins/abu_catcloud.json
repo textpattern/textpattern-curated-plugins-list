@@ -1,0 +1,15 @@
+{
+  "name": "abu_catcloud",
+  "repositories": [
+    {
+      "repoType": "homepage",
+      "repoUrl": "https://codeberg.org/abu/abu_catcloud"
+    }
+  ],
+  "stable": {
+    "version": "0.4.0",
+    "datePublished": "2025-10-25",
+    "downloadUrlPhp": "https://codeberg.org/abu/abu_catcloud/releases/download/v0.4.0/abu_catcloud.zip",
+    "phpHasManifest": 1
+  }
+}
