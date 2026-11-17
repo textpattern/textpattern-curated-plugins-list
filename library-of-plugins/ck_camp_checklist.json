@@ -1,0 +1,15 @@
+{
+  "name": "ck_camp_checklist",
+  "repositories": [
+    {
+      "repoType": "github",
+      "repoUrl": "https://github.com/campkitchenus-maker/ck_camp_checklist"
+    }
+  ],
+  "stable": {
+    "version": "1.0.0",
+    "datePublished": "2026-11-17",
+    "downloadUrlPhp": "https://github.com/campkitchenus-maker/ck_camp_checklist/releases/download/v1.0.0/ck_camp_checklist.zip",
+    "phpHasManifest": 1
+  }
+}
